@@ -67,7 +67,7 @@ public class khachhang {
 	}
 	
 	public void xuat() {
-		System.out.println("Ma so khach hang: " +makh);
+		System.out.println("Ma so cua khach hang: " +makh);
 		System.out.println("Ten khach hang: " +ten);
 		System.out.println("Dia chi: " +diachi);
 		System.out.println("So dien thoai: " + sdt);
